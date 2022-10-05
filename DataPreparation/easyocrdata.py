@@ -2,11 +2,7 @@ import pandas as pd
 import os
 import json
 from natsort import natsorted
-# df = pd.DataFrame([])
-# anns = os.listdir('OCRAUTO/anns')
-# imgs = os.listdir('OCRAUTO/imgs')
 imgsnew = os.listdir('OCRAUTO/imgsnew')
-# # Переименование файлов
 path1 = 'OCRAUTO/imgs/'
 path2 = 'OCRAUTO/imgsnew/'
 for i in range(len(imgs)):
