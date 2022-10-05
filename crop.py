@@ -7,7 +7,6 @@ import numpy as np
 model = torch.hub.load('ultralytics/yolov5', 'custom', path='licenseplates.pt', force_reload=True)
 image = Image.open('test3.jpg')
 result = model(image)
-# result.show()
 xyxy = result.xyxy
 
 x, y, w, h = int(xyxy[0][0][0]), int(xyxy[0][0][1]), int(xyxy[0][0][2] - xyxy[0][0][0]), int(
