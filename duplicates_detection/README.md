@@ -33,4 +33,5 @@ Cosine sentence similarity model
   <li>1 query: 6.54 sec </li>
 <h3> Models </h3>
 Models stored in https://drive.google.com/drive/folders/1mRV56wwNSQTdkFlSU-Wd8Jt920c7uhh9?usp=share_link
-#For use: download main notebook (Cos_filter...) and use model from Google Colab
+<h3> For use </h3> 
+Download main notebook (Cos_filter...) and use model from Google Colab
