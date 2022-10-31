@@ -1,10 +1,5 @@
 <h1>Company duplicates detection</h1>
 
-<h3> Experiments </h3>
-Bert only, balanced dataset
-
-<img src="img/4.jpg">
-
 Bert only, full dataset
 
 <img src="img/4.jpg">
