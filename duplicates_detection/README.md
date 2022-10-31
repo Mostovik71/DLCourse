@@ -31,3 +31,4 @@ Models stored in https://drive.google.com/drive/folders/1mRV56wwNSQTdkFlSU-Wd8Jt
 <h3> For use </h3> 
 Download main notebook (Cos_filter...) and use model from Google Colab
 <h3> Еще добавить полную инструкцию по запуску пайплайна </h3>
+<h3> Пути, зависимости </h3> 
