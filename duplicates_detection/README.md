@@ -32,4 +32,4 @@ Cosine sentence similarity model
   <li>First iteration of database ± 50 comps/sec</li>
   <li>1 query: 6.54 sec </li>
 <h3> Models </h3>
-Models sorted in https://drive.google.com/drive/folders/1mRV56wwNSQTdkFlSU-Wd8Jt920c7uhh9?usp=share_link
+Models stored in https://drive.google.com/drive/folders/1mRV56wwNSQTdkFlSU-Wd8Jt920c7uhh9?usp=share_link
