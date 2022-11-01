@@ -6,3 +6,4 @@ sklearn
 numpy
 random
 json
+Добавить версии библиотек
