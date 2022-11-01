@@ -29,6 +29,10 @@ Cosine sentence similarity model
 <h3> Models </h3>
 Models stored in https://drive.google.com/drive/folders/1mRV56wwNSQTdkFlSU-Wd8Jt920c7uhh9?usp=share_link
 <h3> For use </h3> 
-Download main notebook (Cos_filter...) and use model from Google Colab
+1) Загрузить основной ноутбук (Cos_filter_...). Пользоваться лучше Google Colab, т.к. модели и данные на ходятся на гугл - диске.
+2) Создать ярлык на своем гугл-диске, для того чтобы пользоваться обученными моделями.
+Когда действия выполнены, можно тестировать модель.
+
+
 <h3> Еще добавить полную инструкцию по запуску пайплайна </h3>
 <h3> Пути, зависимости, гиперпараметры, масштабируемость,и т.д.</h3> 
