@@ -21,6 +21,13 @@ Cosine sentence similarity model
   <li>F1: 0.96</li>
 </ul>
 
+<h3> Hyperparameters </h3>
+<ul> <b> Cosine sentence similarity model + BERT full dataset </b>
+  <li>Recall: 0.99</li>
+  <li>Precicison: 0.89</li>
+  <li>F1: 0.96</li>
+</ul>  
+  
 <hr>
 <h3> Сharacteristic </h3>
     <li>GPU 1GB+</li>
