@@ -26,6 +26,7 @@ Cosine sentence similarity model
   <li>Learning rate: 2e-5</li>
   <li>Epochs: 3</li>
   <li>Optimizer: AdamW (full model.params)</li>
+  <li>Batch size: 16</li>
 </ul>  
   
 <hr>
