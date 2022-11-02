@@ -22,10 +22,11 @@ Cosine sentence similarity model
 </ul>
 
 <h3> Hyperparameters </h3>
-<ul> <b> Cosine sentence similarity model + BERT full dataset </b>
+<ul> <b> Гиперпараметры подобраны опытным путем </b>
   <li>Learning rate: 2e-5</li>
   <li>Epochs: 3</li>
   <li>Optimizer: AdamW (full model.params)</li>
+  <li>Batch size: 16</li>
 </ul>  
   
 <hr>
@@ -39,5 +40,3 @@ Models stored in https://drive.google.com/drive/folders/1mRV56wwNSQTdkFlSU-Wd8Jt
 <li>Загрузить основной ноутбук (Cos_filter_...). Пользоваться лучше Google Colab, т.к. модели и данные на ходятся на гугл - диске.</li>
 <li> Создать ярлык на своем гугл - диске, для того чтобы пользоваться обученными моделями.</li>
 Когда эти действия выполнены, можно тестировать модель.
-
-<h3> гиперпараметры</h3> 
