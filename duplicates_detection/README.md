@@ -14,14 +14,14 @@ Cosine sentence similarity model
 
 <hr>
 
-<h3> Metrics </h3>
+<h3> Метрики </h3>
 <ul> <b> Cosine sentence similarity model + BERT full dataset </b>
   <li>Recall: 0.99</li>
   <li>Precicison: 0.89</li>
   <li>F1: 0.96</li>
 </ul>
 
-<h3> Hyperparameters </h3>
+<h3> Гиперпараметры </h3>
 <ul> <b> Гиперпараметры подобраны опытным путем </b>
   <li>Learning rate: 2e-5</li>
   <li>Epochs: 3</li>
@@ -31,12 +31,12 @@ Cosine sentence similarity model
   
 <hr>
 <h3> Сharacteristic </h3>
-    <li>GPU 1GB+</li>
-  <li>First iteration of database ± 50 comps/sec</li>
   <li>1 query: 6.54 sec </li>
+  <li>Первая итерация ± 50 comps/sec</li>
+  <li>1 запрос: 6.54 sec </li>
 <h3> Models </h3>
-Models stored in https://drive.google.com/drive/folders/1mRV56wwNSQTdkFlSU-Wd8Jt920c7uhh9?usp=share_link
-<h3> For use </h3> 
+Модели здесь https://drive.google.com/drive/folders/1mRV56wwNSQTdkFlSU-Wd8Jt920c7uhh9?usp=share_link
+<h3> Использование </h3> 
 <li>Загрузить основной ноутбук (Cos_filter_...). Пользоваться лучше Google Colab, т.к. модели и данные на ходятся на гугл - диске.</li>
 <li> Создать ярлык на своем гугл - диске, для того чтобы пользоваться обученными моделями.</li>
 Когда эти действия выполнены, можно тестировать модель.
