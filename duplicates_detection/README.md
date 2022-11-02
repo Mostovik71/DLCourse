@@ -28,12 +28,11 @@ Cosine sentence similarity model
   <li>Optimizer: AdamW (full model.params)</li>
   <li>Batch size: 16</li>
 </ul>  
-  
 <hr>
-<h3> Сharacteristic </h3>
-  <li>1 query: 6.54 sec </li>
+<h3> Характеристики </h3>
+  <li>CPU </li>
   <li>Первая итерация ± 50 comps/sec</li>
-  <li>1 запрос: 6.54 sec </li>
+  <li>1 запрос: 7 sec </li>
 <h3> Models </h3>
 Модели здесь https://drive.google.com/drive/folders/1mRV56wwNSQTdkFlSU-Wd8Jt920c7uhh9?usp=share_link
 <h3> Использование </h3> 
