@@ -22,7 +22,7 @@ Cosine sentence similarity model
 </ul>
 
 <h3> Hyperparameters </h3>
-<ul> <b> Cosine sentence similarity model + BERT full dataset </b>
+<ul> <b> Гиперпараметры подобраны опытным путем </b>
   <li>Learning rate: 2e-5</li>
   <li>Epochs: 3</li>
   <li>Optimizer: AdamW (full model.params)</li>
