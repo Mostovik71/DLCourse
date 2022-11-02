@@ -23,9 +23,9 @@ Cosine sentence similarity model
 
 <h3> Hyperparameters </h3>
 <ul> <b> Cosine sentence similarity model + BERT full dataset </b>
-  <li>Recall: 0.99</li>
-  <li>Precicison: 0.89</li>
-  <li>F1: 0.96</li>
+  <li>Learning rate: 2e-5</li>
+  <li>Epochs: 3</li>
+  <li>Optimizer: AdamW (full model.params)</li>
 </ul>  
   
 <hr>
