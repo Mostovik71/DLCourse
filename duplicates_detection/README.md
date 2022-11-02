@@ -21,6 +21,13 @@ Cosine sentence similarity model
   <li>F1: 0.96</li>
 </ul>
 
+<h3> Hyperparameters </h3>
+<ul> <b> Cosine sentence similarity model + BERT full dataset </b>
+  <li>Learning rate: 2e-5</li>
+  <li>Epochs: 3</li>
+  <li>Optimizer: AdamW (full model.params)</li>
+</ul>  
+  
 <hr>
 <h3> Сharacteristic </h3>
     <li>GPU 1GB+</li>
@@ -33,4 +40,4 @@ Models stored in https://drive.google.com/drive/folders/1mRV56wwNSQTdkFlSU-Wd8Jt
 <li> Создать ярлык на своем гугл - диске, для того чтобы пользоваться обученными моделями.</li>
 Когда эти действия выполнены, можно тестировать модель.
 
-<h3> зависимости, гиперпараметры</h3> 
+<h3> гиперпараметры</h3> 
